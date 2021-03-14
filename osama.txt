@@ -1,0 +1,30 @@
+1. The .gitignore file is a text file that tells Git which files or folders to ignore in a project.
+
+This is an example of what the .gitignore file could look like:
+
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all text files
+*.txt
+
+# Ignore files related to API keys
+.env
+
+# Ignore SASS config files
+.sass-cache
+
+2.theapplication server is a server specifically designed to run applications.
+The "server" includes both the hardware and software that provide an environment for programs to run.
+
+A web server is designed – and often optimized – to serve webpages. Therefore,
+it may not have the resources to run demanding web applications. 
+An application server provides the processing power and memory to run these applications in real-time.
+
+
+3.Text editor (handles plain text)
+● Compiler (translates the code into instructions the computer can understand)
+● Debugger (tool used for troubleshooting)
