@@ -1,0 +1,12 @@
+
+* what is gitignore: 
+ - it's a file that contains the name of folders or files that we want git to ignore them :
+  ex : local environmental variables files because it has sensitive information
+* What is application server :
+ - An application server is a server specifically designed to run applications. 
+ The "server" includes both the hardware and software that provide an environment for programs to run
+
+ * Parameters to choose the IDE : 
+         - text editor 
+         - debugger
+         - compiler
